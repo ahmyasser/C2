@@ -1,0 +1,14 @@
+
+<div class='login'>
+    <h2>Login</h2>
+    <input name='email' [(ngModel)]="email" placeholder='email' type='text'>
+    <input id='pw' [(ngModel)]="password" name='password' placeholder='Password' type='password'>
+
+    <div class='agree'>
+        <input id='agree' name='agree' type='checkbox'>
+        <label for='agree'></label>Remember Me
+    </div>
+
+    <input type='animated' (click)="add()" type='submit' value='Login'>
+    <div><a class='forgot'>Don't have an account? </a> <a class='forgot' href='#/dashboard/authe/signup'>Sign up</a></div>
+</div>

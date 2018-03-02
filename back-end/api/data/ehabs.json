@@ -1,0 +1,66 @@
+[{
+	"_id": {
+		"$oid": "5a998d691286863bf804156c"
+	},
+	"name": "football",
+	"price": 10,
+	"component": "c2",
+	"seller": "ehab",
+	"createdAt": {
+		"$date": "2018-03-02T17:44:09.290Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a998d7b1286863bf804156d"
+	},
+	"name": "book",
+	"price": 70,
+	"component": "c2",
+	"seller": "ehab",
+	"createdAt": {
+		"$date": "2018-03-02T17:44:27.630Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a998d931286863bf804156e"
+	},
+	"name": "shoes",
+	"price": 80,
+	"component": "c2",
+	"seller": "ehab",
+	"createdAt": {
+		"$date": "2018-03-02T17:44:51.089Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a998da41286863bf804156f"
+	},
+	"name": "tshirt",
+	"price": 55,
+	"component": "c2",
+	"seller": "ehab",
+	"createdAt": {
+		"$date": "2018-03-02T17:45:08.783Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a998db21286863bf8041570"
+	},
+	"name": "shorts",
+	"price": 77,
+	"component": "c2",
+	"seller": "ehab",
+	"createdAt": {
+		"$date": "2018-03-02T17:45:22.279Z"
+	},
+	"__v": 0
+}]
+

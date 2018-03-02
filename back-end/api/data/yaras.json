@@ -1,0 +1,81 @@
+[{
+	"_id": {
+		"$oid": "5a99b3b651aace0b14166407"
+	},
+	"name": "soccer ball",
+	"price": 200,
+	"component": "c2",
+	"seller": "yara",
+	"createdAt": {
+		"$date": "2018-03-02T20:27:34.533Z"
+	},
+	"updatedAt": {
+		"$date": "2018-03-02T20:27:34.533Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a99b3ca51aace0b14166408"
+	},
+	"name": "tennis raquet",
+	"price": 3000,
+	"component": "c2",
+	"seller": "yara",
+	"createdAt": {
+		"$date": "2018-03-02T20:27:54.276Z"
+	},
+	"updatedAt": {
+		"$date": "2018-03-02T20:27:54.276Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a99b3df51aace0b14166409"
+	},
+	"name": "squash raquet",
+	"price": 200,
+	"component": "c2",
+	"seller": "yara",
+	"createdAt": {
+		"$date": "2018-03-02T20:28:15.189Z"
+	},
+	"updatedAt": {
+		"$date": "2018-03-02T20:28:15.189Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a99b3f751aace0b1416640a"
+	},
+	"name": "tennis balls",
+	"price": 75,
+	"component": "c2",
+	"seller": "yara",
+	"createdAt": {
+		"$date": "2018-03-02T20:28:39.033Z"
+	},
+	"updatedAt": {
+		"$date": "2018-03-02T20:28:39.033Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a99b40451aace0b1416640b"
+	},
+	"name": "soccer shorts",
+	"price": 500,
+	"component": "c2",
+	"seller": "yara",
+	"createdAt": {
+		"$date": "2018-03-02T20:28:52.695Z"
+	},
+	"updatedAt": {
+		"$date": "2018-03-02T20:28:52.695Z"
+	},
+	"__v": 0
+}]
+
